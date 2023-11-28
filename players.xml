@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player>
+        <name>John Doe</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <sport>Football</sport>
+    </player>
+    <player>
+        <name>Jane Smith</name>
+        <age>28</age>
+        <gender>Female</gender>
+        <sport>Tennis</sport>
+    </player>
+    <player>
+        <name>Mike Johnson</name>
+        <age>30</age>
+        <gender>Male</gender>
+        <sport>Basketball</sport>
+    </player>
+</players>
